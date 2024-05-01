@@ -1,4 +1,4 @@
-# Timestap Server
+# Timestamp Server
 
 A simple server that returns the current time in a JSON object.
 
